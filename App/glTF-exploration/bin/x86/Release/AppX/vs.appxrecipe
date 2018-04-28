@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>G:\Unity\glTF-exploration\App\glTF-exploration\bin\x86\Release\AppX</LayoutDir>
-    <RegisteredManifestChecksum>D29EC30CE9ED20178E3F9CD7263516B05E8888FC48BB8FC34939153297762290</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>739517D042771249DB0A66EC7EA7AB61935E7ADD05684F4C2F372643F2E28F2C</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>glTF-exploration_1.0.0.0_x86__pzq3xp76mxafg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>glTF-exploration_pzq3xp76mxafg!App</RegisteredUserModeAppID>
     <RegisteredPackageID>glTF-exploration</RegisteredPackageID>
@@ -31,13 +31,13 @@
     <AppXManifest Include="G:\Unity\glTF-exploration\App\glTF-exploration\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-04-27T05:39:04.595</Modified>
+      <Modified>2018-04-28T03:53:07.060</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\bin\x86\Release\glTF-exploration.exe">
       <PackagePath>entrypoint\glTF-exploration.exe</PackagePath>
-      <Modified>2018-04-27T05:38:52.499</Modified>
+      <Modified>2018-04-28T03:52:54.869</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Will\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -499,9 +499,13 @@
       <PackagePath>WinRTBridge.winmd</PackagePath>
       <Modified>2018-03-26T10:35:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\BoxAnimated.glb">
-      <PackagePath>BoxAnimated.glb</PackagePath>
-      <Modified>2018-04-27T05:38:40.053</Modified>
+    <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\NETFLIX_converted.glb">
+      <PackagePath>NETFLIX_converted.glb</PackagePath>
+      <Modified>2018-04-28T03:38:50.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\AnimatedMorphCube.glb">
+      <PackagePath>AnimatedMorphCube.glb</PackagePath>
+      <Modified>2018-04-28T03:51:33.673</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\Resource.res">
       <PackagePath>Resource.res</PackagePath>
@@ -612,175 +616,175 @@
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-04-27T05:38:52.865</Modified>
+      <Modified>2018-04-28T03:52:55.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:00.905</Modified>
+      <Modified>2018-04-28T03:53:03.715</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:00.951</Modified>
+      <Modified>2018-04-28T03:53:03.726</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:00.999</Modified>
+      <Modified>2018-04-28T03:53:03.749</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.044</Modified>
+      <Modified>2018-04-28T03:53:03.781</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.076</Modified>
+      <Modified>2018-04-28T03:53:03.845</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.095</Modified>
+      <Modified>2018-04-28T03:53:03.872</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.128</Modified>
+      <Modified>2018-04-28T03:53:03.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.153</Modified>
+      <Modified>2018-04-28T03:53:03.938</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.191</Modified>
+      <Modified>2018-04-28T03:53:03.970</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.223</Modified>
+      <Modified>2018-04-28T03:53:03.993</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.257</Modified>
+      <Modified>2018-04-28T03:53:04.025</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.267</Modified>
+      <Modified>2018-04-28T03:53:04.049</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.278</Modified>
+      <Modified>2018-04-28T03:53:04.080</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.313</Modified>
+      <Modified>2018-04-28T03:53:04.102</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.338</Modified>
+      <Modified>2018-04-28T03:53:04.113</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.371</Modified>
+      <Modified>2018-04-28T03:53:04.127</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.399</Modified>
+      <Modified>2018-04-28T03:53:04.147</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.447</Modified>
+      <Modified>2018-04-28T03:53:04.176</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.474</Modified>
+      <Modified>2018-04-28T03:53:04.189</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.505</Modified>
+      <Modified>2018-04-28T03:53:04.199</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.515</Modified>
+      <Modified>2018-04-28T03:53:04.220</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.546</Modified>
+      <Modified>2018-04-28T03:53:04.235</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.568</Modified>
+      <Modified>2018-04-28T03:53:04.257</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.601</Modified>
+      <Modified>2018-04-28T03:53:04.300</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.624</Modified>
+      <Modified>2018-04-28T03:53:04.319</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.654</Modified>
+      <Modified>2018-04-28T03:53:04.348</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.685</Modified>
+      <Modified>2018-04-28T03:53:04.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.696</Modified>
+      <Modified>2018-04-28T03:53:04.412</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.706</Modified>
+      <Modified>2018-04-28T03:53:04.464</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:01.921</Modified>
+      <Modified>2018-04-28T03:53:04.714</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2018-04-27T05:39:02.127</Modified>
+      <Modified>2018-04-28T03:53:04.925</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:02.355</Modified>
+      <Modified>2018-04-28T03:53:04.951</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:02.522</Modified>
+      <Modified>2018-04-28T03:53:04.974</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:02.531</Modified>
+      <Modified>2018-04-28T03:53:05.017</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:02.557</Modified>
+      <Modified>2018-04-28T03:53:05.054</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:02.598</Modified>
+      <Modified>2018-04-28T03:53:05.064</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:02.622</Modified>
+      <Modified>2018-04-28T03:53:05.107</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:02.673</Modified>
+      <Modified>2018-04-28T03:53:05.131</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:02.706</Modified>
+      <Modified>2018-04-28T03:53:05.153</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:02.738</Modified>
+      <Modified>2018-04-28T03:53:05.166</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:02.771</Modified>
+      <Modified>2018-04-28T03:53:05.197</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:02.811</Modified>
+      <Modified>2018-04-28T03:53:05.228</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
@@ -788,55 +792,55 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:02.842</Modified>
+      <Modified>2018-04-28T03:53:05.238</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:02.883</Modified>
+      <Modified>2018-04-28T03:53:05.268</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-      <Modified>2018-04-27T05:39:02.893</Modified>
+      <Modified>2018-04-28T03:53:05.295</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
-      <Modified>2018-04-27T05:39:02.971</Modified>
+      <Modified>2018-04-28T03:53:05.351</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
-      <Modified>2018-04-27T05:39:03.007</Modified>
+      <Modified>2018-04-28T03:53:05.387</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
-      <Modified>2018-04-27T05:39:03.043</Modified>
+      <Modified>2018-04-28T03:53:05.445</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2018-04-27T05:39:03.116</Modified>
+      <Modified>2018-04-28T03:53:05.512</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
-      <Modified>2018-04-27T05:39:03.127</Modified>
+      <Modified>2018-04-28T03:53:05.538</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2018-04-27T05:39:03.159</Modified>
+      <Modified>2018-04-28T03:53:05.577</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
-      <Modified>2018-04-27T05:39:03.179</Modified>
+      <Modified>2018-04-28T03:53:05.611</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2018-04-27T05:39:03.239</Modified>
+      <Modified>2018-04-28T03:53:05.672</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\GLTFSerializationUWP.dll">
       <PackagePath>GLTFSerializationUWP.dll</PackagePath>
-      <Modified>2018-04-27T05:39:03.275</Modified>
+      <Modified>2018-04-28T03:53:05.709</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\bin\x86\Release\Core\glTF-exploration.exe">
       <PackagePath>glTF-exploration.exe</PackagePath>
-      <Modified>2018-04-27T05:39:04.594</Modified>
+      <Modified>2018-04-28T03:53:07.059</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

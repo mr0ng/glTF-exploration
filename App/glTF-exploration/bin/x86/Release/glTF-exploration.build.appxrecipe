@@ -373,8 +373,11 @@
     <AppxPackagedFile Include="G:\Unity\2017.4.1f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\WinRTBridge.winmd">
       <PackagePath>WinRTBridge.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\BoxAnimated.glb">
-      <PackagePath>BoxAnimated.glb</PackagePath>
+    <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\NETFLIX_converted.glb">
+      <PackagePath>NETFLIX_converted.glb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\AnimatedMorphCube.glb">
+      <PackagePath>AnimatedMorphCube.glb</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\Unity\glTF-exploration\App\glTF-exploration\Resource.res">
       <PackagePath>Resource.res</PackagePath>

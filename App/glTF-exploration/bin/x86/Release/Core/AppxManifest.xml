@@ -26,7 +26,7 @@
     <Application Id="App" Executable="glTF-exploration.exe" EntryPoint="glTF-exploration.App">
       <uap:VisualElements DisplayName="glTF-exploration" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="glTF-exploration" BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png">
-          <uap5:MixedRealityModel Path="BoxAnimated.glb" />
+          <uap5:MixedRealityModel Path="AnimatedMorphCube.glb" />
         </uap:DefaultTile>
         <uap:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#FFFFFF" />
         <uap:InitialRotationPreference>
