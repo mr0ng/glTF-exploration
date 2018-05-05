@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 using UnityGLTF;
+//using UnityGLTF;
 
 public class Downloader : MonoBehaviour
 {
@@ -54,7 +55,7 @@ public class Downloader : MonoBehaviour
         }
 
         //path = Path.ChangeExtension(path, ".bin");
-        
+
         //url = Path.ChangeExtension(url, ".bin");
 
         //file = null;
@@ -75,8 +76,8 @@ public class Downloader : MonoBehaviour
         //    Debug.Log(www.error);
         //}
 
-        GetComponent<GLTFComponent>().GLTFUri = Path.GetFileName(uri.AbsolutePath);
-        print(GetComponent<GLTFComponent>().GLTFUri);
-        StartCoroutine(GetComponent<GLTFComponent>().Load());
+        GetComponent<GLTFComponentDownload>().Url = Path.GetFileName(uri.AbsolutePath);
+        print(GetComponent<GLTFComponentDownload>().Url);
+        StartCoroutine(GetComponent<GLTFComponentDownload>().Begin());
     }
 }
